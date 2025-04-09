@@ -1,0 +1,19 @@
+{
+  "modules": [
+    {
+      "name": "banner_patch.js",
+      "version": "1.0.1",
+      "url": "https://your-username.github.io/hotpatch-js/banner_patch.js"
+    },
+    {
+      "name": "i18n_patch.js",
+      "version": "1.0.0",
+      "url": "https://your-username.github.io/hotpatch-js/i18n_patch.js"
+    },
+    {
+      "name": "ai_patch.js",
+      "version": "1.0.2",
+      "url": "https://your-username.github.io/hotpatch-js/ai_patch.js"
+    }
+  ]
+}
