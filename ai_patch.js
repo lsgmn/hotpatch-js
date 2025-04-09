@@ -1,6 +1,7 @@
 var ai_version = "1.0.3";
-log("JS 收到参数：" + JSON.stringify(input));
 function validateAIInput(input) {
+  log("JS 收到参数：" + JSON.stringify(input));
+
   return input && input.query && input.query.length > 0;
 }
 
