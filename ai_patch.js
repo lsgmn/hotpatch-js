@@ -1,4 +1,4 @@
-var ai_version = "1.0.3";
+var ai_version = "1.0.4";
 function validateAIInput(input) {
   log("JS 收到参数：" + JSON.stringify(input));
   log("Hello from JS");
