@@ -8,3 +8,5 @@ function validateAIInput(input) {
 function getAIFallbackResponse() {
   return "对不起，我现在不太明白你的意思。";
 }
+
+log("Hello from JS");
